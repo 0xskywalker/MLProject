@@ -13,4 +13,6 @@ Evaluated on;
 4. Letter recognition data
 5. Mushroom data
 
+using 10 times 5-fold cross-validation, graded based on Accuracy and Standard deviation.
+
 Written in Python3.x.
