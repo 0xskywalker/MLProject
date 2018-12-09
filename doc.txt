@@ -1,0 +1,12 @@
+1. Open the 'Jupytr notebook' folder for the implementations in Jupytr Notebook (.ipynb)
+2. The implementations with Python(.py) files is located in 'subPackage' - copy the folder into your current working directory
+   HOW TO?
+ - open python shell
+ - import os
+ - type 'os.getcwd()'
+ - and execute
+ - navigate to the directory displayed on PC
+ - copy the subPackage folder into the directory 
+ - copy the datasets alongside as well.
+   IMPLEMENTATIONS
+ - The implementation for each of the dataset is located in the folder e.g open the 'breast-cancer.py' from Python shell and run.
