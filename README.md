@@ -13,4 +13,4 @@ Evaluated on;
 4. Letter recognition data
 5. Mushroom data
 
-Wriiten in Python3.x.
+Written in Python3.x.
