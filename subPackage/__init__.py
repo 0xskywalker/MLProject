@@ -5,6 +5,7 @@ Created on Fri Oct 26 08:56:13 2018
 
 """
 
+import csv
 import numpy as np
 import pandas as pd
 from sklearn.utils import shuffle
